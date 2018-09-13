@@ -32,3 +32,13 @@ nav {
   margin: 3rem auto;
   display: block;
   padding: .6rem; }
+
+#gallery {
+  width: 100%;
+  height: auto;
+  margin-bottom: 3rem; }
+  #gallery img {
+    width: 32.5%;
+    display: inline-block;
+    margin-right: .5%;
+    margin-bottom: 1%; }
